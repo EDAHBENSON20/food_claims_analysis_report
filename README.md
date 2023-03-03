@@ -78,4 +78,4 @@ FORTALEZA comes third in the list and NATAL with the lowest number of claims and
 The Vivendo legal team should give more attention to RECIFE and SAO LUIS as both locations have more claims with time to close of over 200 days.
  
 
-
+![thank you picture](thank_you.jpg)
