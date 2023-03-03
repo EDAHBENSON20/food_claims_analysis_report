@@ -1,4 +1,5 @@
 # food_claims_analysis_report❤
+![picture of food](food_claims3.jpg)
 ## This report was done using Ms Excel, SQL, Power BI and Python Seaborn library
 ## Data Validation
 For every column in the data:
